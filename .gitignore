@@ -1,0 +1,9 @@
+node_modules/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+# Base locale et journal d'audit générés à l'exécution (le seed verif237_db.json est versionné)
+.data/verif237_audit.txt
